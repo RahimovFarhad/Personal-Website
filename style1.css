@@ -649,6 +649,10 @@ form #submit{
     .header{
         visibility: hidden;
     }
+    .carousel-item{
+        height: 400px;
+        object-fit:contain;
+    }
     .Resume .features > div{
         width: 100%;
     }
