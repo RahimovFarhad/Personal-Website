@@ -4,3 +4,4 @@ window.addEventListener("scroll", function () {
     document.querySelector(".scroll-progress-progress-indicator-bar").style.width = scrollY/documentHeight * 100+ "%";
     console.log(document.querySelector(".scroll-progress-progress-indicator-bar").style.width + " bu");
 });
+

@@ -634,6 +634,9 @@ form #submit{
 }
 
 @media (max-width: 768px){
+    .header{
+        visibility: hidden;
+    }
     .visit.button{
         width: 100%;
     }
@@ -643,6 +646,9 @@ form #submit{
 }
 
 @media (max-width: 575px) {
+    .header{
+        visibility: hidden;
+    }
     .Resume .features > div{
         width: 100%;
     }
